@@ -1,2 +1,1 @@
-Hi Hayley
-hi dad
+This is my python studies.
